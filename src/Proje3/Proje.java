@@ -1,8 +1,7 @@
-package Proje2;
+package Proje3;
 
 import Utlity.BaseDriver;
 import Utlity.MyFunc;
-import com.beust.ah.A;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
